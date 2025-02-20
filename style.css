@@ -9,7 +9,7 @@
   --bg-url: url(./assets/bg-mobile.jpg);
   --text-colorbackground: black;
   --color-backgroundsocial: rgba(255, 255, 255, 0.082);
-  --switch-bg-url: url(/assets/moon-stars.svg);
+  --switch-bg-url: url();
 }
 
 .light {
@@ -17,7 +17,7 @@
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --text-colorbackground: rgba(255, 255, 255, 0.568);
   --color-backgroundsocial: rgba(10, 10, 10, 0.13);
-  --switch-bg-url: url(/assets/sun.svg);
+  --switch-bg-url: url();
 }
 
 body {
